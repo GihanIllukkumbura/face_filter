@@ -1,0 +1,5 @@
+opencv-python>=4.8
+mediapipe>=0.10
+numpy>=1.26
+Pillow>=10.0
+PySide6>=6.6
